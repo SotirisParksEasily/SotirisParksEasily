@@ -1,4 +1,4 @@
-![Header](./[github-header-image.png])
+![Header]([github-header-image.png])
 
 ### Hi there 👋
 
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SotirisParksEasily&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=sotirisfalieris&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=sotirisfalieris&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)]]
+[https://spotify-github-profile.vercel.app/api/view.svg?uid=sotirisfalieris&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=sotirisfalieris&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)]
