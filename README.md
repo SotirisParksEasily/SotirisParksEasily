@@ -1,5 +1,5 @@
 ![github-header-image_1](https://github.com/SotirisParksEasily/SotirisParksEasily/assets/143804023/082274a5-8cc2-464f-b26f-2aa6c8b07c73)
-![Example 1](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-1.png)
+
 
 ### Hi there 👋
 
