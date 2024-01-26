@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SotirisParksEasily&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[https://spotify-github-profile.vercel.app/api/view.svg?uid=sotirisfalieris&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=sotirisfalieris&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)]
+<p align="center">
+  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=sotirisfalieris&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true">
+</p>
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=sotirisfalieris&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=sotirisfalieris&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)]]
