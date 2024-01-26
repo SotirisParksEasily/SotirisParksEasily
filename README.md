@@ -28,7 +28,6 @@
 > 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -40,10 +39,16 @@
 
 
 ## What I code
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SotirisParksEasily&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SotirisParksEasily&show_icons=true&theme=dracula">
+</p>
 
 ## What I am listening to
 <p align="center">
-  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=sotirisfalieris&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true">
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=sotirisfalieris&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
 </p>
 
+
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SotirisParksEasily&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+-->
