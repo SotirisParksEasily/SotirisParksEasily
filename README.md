@@ -1,6 +1,5 @@
 ### ✨ Hello there! ✨
 
-## About Me
 - 🔭 &nbsp; My name is Sotiris Falieris and I am a senior Android engineer
 - 💼 &nbsp; I work at EasyPark, making parking a better experience across the world 
 - 🌱 &nbsp; I’m currently learning Flutter;
